@@ -3,4 +3,5 @@ var typed = new Typed('#typed', {
 	typeSpeed : 50,
 	backSpeed : 25,
 	showCursor: false,
+	loop: true,
 });
