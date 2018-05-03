@@ -1,6 +1,9 @@
+
 *{
 	font-family: 'Roboto', sans-serif;
 	position: relative;
+
+
 }
 
 #navbar{
@@ -10,7 +13,7 @@
 	border-bottom: 0;}
 
 #particles-js{
-	height: 50.5em;
+
 	background: #262626;
 }
 
@@ -27,12 +30,15 @@
 //	text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.50);
 }
 
-// css for quotes start here
+
+
+
+
 
 #slideshow {
 	margin: 80px auto;
 	position: relative;
-	height: 10em;
+	height: 15em;
 	padding: 2em;
 	font-size: 2em;
 	box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
@@ -50,5 +56,40 @@
 	padding: 2em;
 	font-size: 1.5em;
 }
+#potfolio
+{
+	background-color: red;
+	height: 22em;
+	width: 20em;
+}
 
-// css for quotes end here
+#AI-ML
+{
+	background-color: darkgrey;
+	height: 45em;
+	width: 100%;
+	margin-top: 2em;
+	margin-bottom: 2em;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+}
+#manu{
+	width: 2.5em;
+	height: 2.5em;
+	margin-top: 10em;
+	margin-bottom: 10em;
+	border-radius: 50%;
+}
+
+cl-ib-h {
+	position: absolute;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	overflow: hidden;
+	background-color: inherit;
+	-webkit-transition-property: none;
+	transition-property: none;
+	-webkit-transform-origin: 0 0;
+	transform-origin: 0 0;
+}
